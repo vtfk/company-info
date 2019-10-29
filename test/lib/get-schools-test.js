@@ -7,7 +7,9 @@ const options = {
   }
 }
 const yffOptions = {
-  yff: true
+  minelev: {
+    yff: true
+  }
 }
 
 tap.equal(schools.length, getSchools().length, 'It returns all schools on empty')
