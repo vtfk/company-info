@@ -1,0 +1,450 @@
+[
+  {
+    "organizationNumber": "974568179",
+    "name": {
+      "full": "Bamble videregående skole, avdeling Croftholmen",
+      "official": "Bamble videregående skole",
+      "display": "Bamble vgs. avd. Croftholmen",
+      "short": "CROVS"
+    },
+    "phoneNumber": "35 91 79 00",
+    "mail": "bamble.vgs@vtfk.no",
+    "webpage": "https://bamble.vgs.no/",
+    "address": {
+      "address": "Tostrupsvei 7",
+      "zip": 3960,
+      "city": "STATHELLE",
+      "geocoded": {
+        "lat": "59.04435",
+        "lon": "9.70618"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568098",
+      "accessGroup": "Elev-Bamble"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568098",
+    "name": {
+      "full": "Bamble videregående skole, avdeling Grasmyr",
+      "official": "Bamble videregående skole",
+      "display": "Bamble vgs. avd. Grasmyr",
+      "short": "BAMVS"
+    },
+    "phoneNumber": "35 91 94 00",
+    "mail": "bamble.vgs@vtfk.no",
+    "webpage": "https://bamble.vgs.no/",
+    "address": {
+      "address": "Tønderveien 6",
+      "zip": 3960,
+      "city": "STATHELLE",
+      "geocoded": {
+        "lat": "59.02786",
+        "lon": "9.70322"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568098",
+      "accessGroup": "Elev-Bamble"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974567997",
+    "name": {
+      "full": "Bø vidaregåande skule",
+      "official": "Bø vidaregåande skule",
+      "display": "Bø vgs",
+      "short": "BOEVS"
+    },
+    "phoneNumber": "35 91 90 00",
+    "mail": "bo.vgs@vtfk.no",
+    "webpage": "https://bo.vgs.no/",
+    "address": {
+      "address": "Gymnasbakken 23",
+      "zip": 3802,
+      "city": "BØ",
+      "geocoded": {
+        "lat": "59.41723",
+        "lon": "9.06292"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974567997",
+      "accessGroup": "Elev-Bø"
+    },
+    "minelev": {
+      "yff": false
+    }
+  },
+  {
+    "organizationNumber": "874568082",
+    "name": {
+      "full": "Rjukan videregående skole",
+      "official": "Rjukan videregående skole",
+      "display": "Rjukan vgs",
+      "short": "RJUVS"
+    },
+    "phoneNumber": "35 91 90 00",
+    "mail": "rjukan.vgs@vtfk.no",
+    "webpage": "https://rjukan.vgs.no/",
+    "address": {
+      "address": "Såheimveien 22",
+      "zip": 3660,
+      "city": "RJUKAN",
+      "geocoded": {
+        "lat": "59.87821",
+        "lon": "8.58058"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974567997",
+      "accessGroup": "Elev-Rjukan"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "874568112",
+    "name": {
+      "full": "Fagskolen Telemark",
+      "official": "Fagskolen Telemark",
+      "display": "Fagskolen Telemark",
+      "short": "TELVS"
+    },
+    "phoneNumber": "35 91 77 50",
+    "mail": "post@fagskolentelemark.no",
+    "webpage": "https://fagskolen-telemark.no/",
+    "address": {
+      "address": "Kjølnes ring 26",
+      "zip": 3918,
+      "city": "PORSGRUNN",
+      "geocoded": {
+        "lat": "59.13612",
+        "lon": "9.67420"
+      }
+    },
+    "p360": {
+      "organizationNumber": "874568112",
+      "accessGroup": "Elev-FagskolenTelemark"
+    },
+    "minelev": {
+      "yff": false
+    }
+  },
+  {
+    "organizationNumber": "974568004",
+    "name": {
+      "full": "Kragerø videregående skole",
+      "official": "Kragerø videregående skole",
+      "display": "Kragerø vgs",
+      "short": "KRAVS"
+    },
+    "phoneNumber": "35 91 95 00",
+    "mail": "kragero.vgs@t-fk.no",
+    "webpage": "https://kragero.vgs.no/",
+    "address": {
+      "address": "Frydensborgveien 9-11",
+      "zip": 3770,
+      "city": "KRAGERØ",
+      "geocoded": {
+        "lat": "58.87151",
+        "lon": "9.39249"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568004",
+      "accessGroup": "Elev-Kragerø"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568012",
+    "name": {
+      "full": "Notodden videregående skole",
+      "official": "Notodden videregående skole",
+      "display": "Notodden vgs",
+      "short": "NOTVS"
+    },
+    "phoneNumber": "35 91 85 00",
+    "mail": "notodden.vgs@t-fk.no",
+    "webpage": "https://notodden.vgs.no/",
+    "address": {
+      "address": "Heddalsveien 4",
+      "zip": 3674,
+      "city": "NOTODDEN",
+      "geocoded": {
+        "lat": "59.55564",
+        "lon": "9.25747"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568012",
+      "accessGroup": "Elev-Notodden"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568020",
+    "name": {
+      "full": "Porsgrunn videregående skole",
+      "official": "Porsgrunn videregående skole",
+      "display": "Porsgrunn vgs",
+      "short": "PORVS"
+    },
+    "phoneNumber": "35 91 75 00",
+    "mail": "porsgrunn.vgs@t-fk.no",
+    "webpage": "https://porsgrunn.vgs.no/",
+    "address": {
+      "address": "Kjølnes Ring 58",
+      "zip": 3918,
+      "city": "PORSGRUNN",
+      "geocoded": {
+        "lat": "59.13851",
+        "lon": "9.66905"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568020",
+      "accessGroup": "Elev-Porsgrunn"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568039",
+    "name": {
+      "full": "Skien videregående skole",
+      "official": "Skien videregående skole",
+      "display": "Skien vgs",
+      "short": "SKIVS"
+    },
+    "phoneNumber": "35 91 80 00",
+    "mail": "skien.vgs@t-fk.no",
+    "webpage": "https://skien.vgs.no/",
+    "address": {
+      "address": "Hollenderigata 5",
+      "zip": 3732,
+      "city": "SKIEN",
+      "geocoded": {
+        "lat": "59.20592",
+        "lon": "9.60032"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568039",
+      "accessGroup": "Elev-Skien"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568055",
+    "name": {
+      "full": "Vest-Telemark vidaregåande skule, avdeling Dalen",
+      "official": "Vest-Telemark vidaregåande skule",
+      "display": "Vest-Telemark vgs. avd. Dalen",
+      "short": "DALVS"
+    },
+    "phoneNumber": "35 91 97 00",
+    "mail": "vest-telemark.vgs@t-fk.no",
+    "webpage": "https://vest-telemark.vgs.no/",
+    "address": {
+      "address": "Storvegen 195",
+      "zip": 3880,
+      "city": "DALEN",
+      "geocoded": {
+        "lat": "59.44657",
+        "lon": "7.98785"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568055",
+      "accessGroup": "Elev-Vest-Telemark"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568128",
+    "name": {
+      "full": "Vest-Telemark vidaregåande skule, avdeling Seljord",
+      "official": "Vest-Telemark vidaregåande skule",
+      "display": "Vest-Telemark vgs. avd. Seljord",
+      "short": "SELVS"
+    },
+    "phoneNumber": "35 91 90 70",
+    "mail": "vest-telemark.vgs@t-fk.no",
+    "webpage": "https://vest-telemark.vgs.no/",
+    "address": {
+      "address": "Brøløsvegen 2",
+      "zip": 3840,
+      "city": "SELJORD",
+      "geocoded": {
+        "lat": "59.48254",
+        "lon": "8.62049"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568055",
+      "accessGroup": "Elev-Vest-Telemark"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568063",
+    "name": {
+      "full": "Nome videregående skole, avdeling Lunde",
+      "official": "Nome videregående skole",
+      "display": "Nome vgs. avd. Lunde",
+      "short": "LUNVS"
+    },
+    "phoneNumber": "35 91 88 00",
+    "mail": "nome.vgs@t-fk.no",
+    "webpage": "https://nome.vgs.no/",
+    "address": {
+      "address": "Olav Strannas vei 25",
+      "zip": 3825,
+      "city": "LUNDE",
+      "geocoded": {
+        "lat": "59.30083",
+        "lon": "9.10652"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568187",
+      "accessGroup": "Elev-Nome"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568071",
+    "name": {
+      "full": "Hjalmar Johansen videregående skole",
+      "official": "Hjalmar Johansen videregående skole",
+      "display": "Hjalmar Johansen vgs",
+      "short": "KLOVS"
+    },
+    "phoneNumber": "35 91 83 00",
+    "mail": "hjalmarjohansen.vgs@t-fk.no",
+    "webpage": "https://hjalmarjohansen.vgs.no/",
+    "address": {
+      "address": "Moflatvegen 38",
+      "zip": 3733,
+      "city": "SKIEN",
+      "geocoded": {
+        "lat": "59.18703",
+        "lon": "9.59437"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568071",
+      "accessGroup": "Elev-Hjalmar Johansen"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568152",
+    "name": {
+      "full": "Skogmo videregående skole",
+      "official": "Skogmo videregående skole",
+      "display": "Skogmo vgs",
+      "short": "SKOVS"
+    },
+    "phoneNumber": "35 91 92 00",
+    "mail": "skogmo.vgs@t-fk.no",
+    "webpage": "https://skogmo.vgs.no/",
+    "address": {
+      "address": "Kjørbekkdalen 11",
+      "zip": 3735,
+      "city": "SKIEN",
+      "geocoded": {
+        "lat": "59.17301",
+        "lon": "9.62081"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568152",
+      "accessGroup": "Elev-Skogmo"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568187",
+    "name": {
+      "display": "Nome vgs. avd. Søve",
+      "full": "Nome videregående skole, avdeling Søve",
+      "official": "Nome videregående skole",
+      "short": "SOEVS"
+    },
+    "phoneNumber": "35 91 87 00",
+    "mail": "nome.vgs@t-fk.no",
+    "webpage": "https://nome.vgs.no/",
+    "address": {
+      "address": "Søveveien 8",
+      "zip": 3830,
+      "city": "ULEFOSS",
+      "geocoded": {
+        "lat": "59.27845",
+        "lon": "9.28459"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568187",
+      "accessGroup": "Elev-Nome"
+    },
+    "minelev": {
+      "yff": true
+    }
+  },
+  {
+    "organizationNumber": "974568187",
+    "name": {
+      "display": "Nome vgs. avd. Lunde",
+      "full": "Nome videregående skole, avdeling Lunde",
+      "official": "Nome videregående skole",
+      "short": "NOMVS"
+    },
+    "phoneNumber": "35 91 88 00",
+    "mail": "nome.vgs@t-fk.no",
+    "webpage": "https://nome.vgs.no/",
+    "address": {
+      "address": "Olav strannasvei 25",
+      "zip": 3825,
+      "city": "LUNDE",
+      "geocoded": {
+        "lat": "59.30053",
+        "lon": "9.10497"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974568187",
+      "accessGroup": "Elev-nome"
+    },
+    "minelev": {
+      "yff": true
+    }
+  }
+]
