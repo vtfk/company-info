@@ -20,17 +20,7 @@ $ npm i @vtfk/company-info
 
 Call the module with no options to list all different companies. The ``type`` property will reflect what  the object is (school / dentist). See more available methods below
 
-In every call you can pass some options to filter out items from your search result.\
-Some of the possible keys are:
-
-- **organizationNumber**
-- **name:**
-  - **full**
-  - **short**
-  - **official**
-  - **display**
-- **phoneNumber**
-- **mail**
+In every call you can pass an object to filter out items from your search result. All properties can be used as a filtered.
 
 ---
 
@@ -38,7 +28,7 @@ Some of the possible keys are:
 ```javascript
 const getCompanies = require('@vtfk/company-info')
 
-console.log(getCompanies()) //=> All companies
+console.log(getCompanies()) //=> All companies with 'type'
 ```
 
 ### Schools
