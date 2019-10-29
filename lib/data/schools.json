@@ -446,5 +446,180 @@
     "minelev": {
       "yff": true
     }
+  },
+  {
+    "organizationNumber": "974575116",
+    "name": {
+      "display": "Sande vgs",
+      "full": "Sande videregående skole",
+      "official": "Sande videregående skole",
+      "short": "SVS"
+    },
+    "phoneNumber": "33 78 50 50",
+    "mail": "sande.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Sande-vgs/",
+    "address": {
+      "address": "Hans Kristian Evensens vei 53",
+      "zip": 3076,
+      "city": "SANDE I VESTFOLD",
+      "geocoded": {
+        "lat": "59.58604",
+        "lon": "10.24090"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575116",
+      "accessGroup": "Elev-Sande"
+    }
+  },
+  {
+    "organizationNumber": "874575062",
+    "name": {
+      "display": "Holmestrand vgs",
+      "full": "Holmestrand videregående skole",
+      "official": "Holmestrand videregående skole",
+      "short": "HLVS"
+    },
+    "phoneNumber": "33 06 63 50",
+    "mail": "holmestrand.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Holmestrand-vgs/",
+    "address": {
+      "address": "Vesthøyveien 7B",
+      "zip": 3085,
+      "city": "HOLMESTRAND",
+      "geocoded": {
+        "lat": "59.48239",
+        "lon": "10.29552"
+      }
+    },
+    "p360": {
+      "organizationNumber": "874575062",
+      "accessGroup": "Elev-Holmestrand"
+    }
+  },
+  {
+    "organizationNumber": "974574985",
+    "name": {
+      "display": "Horten vgs",
+      "full": "Horten videregående skole",
+      "official": "Horten videregående skole",
+      "short": "HVS"
+    },
+    "phoneNumber": "33 07 90 00",
+    "mail": "horten.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Horten-vgs/",
+    "address": {
+      "address": "Strandpromenaden 33",
+      "zip": 3183,
+      "city": "HORTEN",
+      "geocoded": {
+        "lat": "59.42085",
+        "lon": "10.48809"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974574985",
+      "accessGroup": "Elev-Horten"
+    }
+  },
+  {
+    "organizationNumber": "974574985",
+    "name": {
+      "display": "Nettskolen Vestfold",
+      "full": "Nettskolen Vestfold",
+      "official": "Nettskolen Vestfold",
+      "short": "HVS-NETT"
+    },
+    "phoneNumber": "33 07 90 00",
+    "mail": "nettskolen@vtfk.no",
+    "webpage": "https://www.vfk.no/nettskolen",
+    "address": {
+      "address": "Strandpromenaden 33",
+      "zip": 3183,
+      "city": "HORTEN",
+      "geocoded": {
+        "lat": "59.42085",
+        "lon": "10.48809"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974574985",
+      "accessGroup": "Elev-Horten"
+    }
+  },
+  {
+    "organizationNumber": "874575232",
+    "name": {
+      "display": "Re vgs",
+      "full": "Re videregående skole",
+      "official": "Re videregående skole",
+      "short": "RVS"
+    },
+    "phoneNumber": "33 30 66 30",
+    "mail": "postmottak.revgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Re-vgs/",
+    "address": {
+      "address": "Bergsåsveien 44",
+      "zip": 3175,
+      "city": "REVETAL",
+      "geocoded": {
+        "lat": "59.35799",
+        "lon": "10.24879"
+      }
+    },
+    "p360": {
+      "organizationNumber": "874575232",
+      "accessGroup": "Elev-Re"
+    }
+  },
+  {
+    "organizationNumber": "974574993",
+    "name": {
+      "display": "Greveskogen vgs",
+      "full": "Greveskogen videregående skole",
+      "official": "Greveskogen videregående skole",
+      "short": "GVS"
+    },
+    "phoneNumber": "33 01 61 00",
+    "mail": "greveskogen.vgs@vfk.no",
+    "webpage": "https://www.vfk.no/Greveskogen-vgs/",
+    "address": {
+      "address": "Eikveien 2",
+      "zip": 3122,
+      "city": "TØNSBERG",
+      "geocoded": {
+        "lat": "59.28730",
+        "lon": "10.41509"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974574993",
+      "accessGroup": "Elev-Greveskogen"
+    }
+  },
+  {
+    "organizationNumber": "974575086",
+    "name": {
+      "display": "Færder vgs",
+      "full": "Færder videregående skole",
+      "official": "Færder videregående skole",
+      "short": "FVS"
+    },
+    "phoneNumber": "33 30 96 00",
+    "mail": "ferder.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Farder-vgs/",
+    "address": {
+      "address": "Banebakken 44",
+      "zip": 3127,
+      "city": "TØNSBERG",
+      "geocoded": {
+        "lat": "59.26096",
+        "lon": "10.41013"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575086",
+      "accessGroup": "Elev-Færder"
+    }
   }
 ]
