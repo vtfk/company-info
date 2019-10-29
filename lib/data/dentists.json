@@ -1,0 +1,23 @@
+[
+  {
+    "organizationNumber": "974642123",
+    "name": {
+      "full": "Haugar tannklinikk",
+      "official": "Haugar tannklinikk",
+      "display": "Haugar tannklinikk",
+      "short": "TANN-HAUGAR"
+    },
+    "phoneNumber": "33 30 93 80",
+    "mail": "Haugar2.tannklinikk@vtfk.no",
+    "webpage": "https://www.vfk.no/meny/tjenester-og-fagomrader/tannhelse/tannklinikker/haugar-tannklinikk/",
+    "address": {
+      "address": "Stoltenbergsgate 3 B",
+      "zip": 3110,
+      "city": "TØNSBERG",
+      "geocoded": {
+        "lat": "59.26844",
+        "lon": "10.41176"
+      }
+    }
+  }
+]
