@@ -8,9 +8,6 @@
     "url": "https://github.com/matsand"
   },
   "main": "index.js",
-  "engines": {
-    "node": ">=10.16.3"
-  },
   "scripts": {
     "test": "standard && npm audit --production && tap --reporter=spec test/**/*.js",
     "test-offline": "standard && tap --reporter=spec test/**/*.js",
@@ -20,24 +17,11 @@
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
-    "vtfk",
-    "Saksbehandling",
-    "Videregående skoler",
-    "vgs",
-    "virksomheter"
+    "vtfk"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vtfk/company-info.git"
-  },
-  "bugs": {
-    "url": "https://github.com/vtfk/company-info/issues"
-  },
-  "homepage": "https://github.com/vtfk/company-info/issues#readme",
   "license": "MIT",
   "devDependencies": {
     "coveralls": "3.0.6",
-    "excel-as-json": "2.0.2",
     "standard": "14.3.1",
     "tap": "14.6.9"
   },
