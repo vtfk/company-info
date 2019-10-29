@@ -148,7 +148,7 @@
       "short": "KRAVS"
     },
     "phoneNumber": "35 91 95 00",
-    "mail": "kragero.vgs@t-fk.no",
+    "mail": "kragero.vgs@vtfk.no",
     "webpage": "https://kragero.vgs.no/",
     "address": {
       "address": "Frydensborgveien 9-11",
@@ -176,7 +176,7 @@
       "short": "NOTVS"
     },
     "phoneNumber": "35 91 85 00",
-    "mail": "notodden.vgs@t-fk.no",
+    "mail": "notodden.vgs@vtfk.no",
     "webpage": "https://notodden.vgs.no/",
     "address": {
       "address": "Heddalsveien 4",
@@ -204,7 +204,7 @@
       "short": "PORVS"
     },
     "phoneNumber": "35 91 75 00",
-    "mail": "porsgrunn.vgs@t-fk.no",
+    "mail": "porsgrunn.vgs@vtfk.no",
     "webpage": "https://porsgrunn.vgs.no/",
     "address": {
       "address": "Kjølnes Ring 58",
@@ -232,7 +232,7 @@
       "short": "SKIVS"
     },
     "phoneNumber": "35 91 80 00",
-    "mail": "skien.vgs@t-fk.no",
+    "mail": "skien.vgs@vtfk.no",
     "webpage": "https://skien.vgs.no/",
     "address": {
       "address": "Hollenderigata 5",
@@ -260,7 +260,7 @@
       "short": "DALVS"
     },
     "phoneNumber": "35 91 97 00",
-    "mail": "vest-telemark.vgs@t-fk.no",
+    "mail": "vest-telemark.vgs@vtfk.no",
     "webpage": "https://vest-telemark.vgs.no/",
     "address": {
       "address": "Storvegen 195",
@@ -288,7 +288,7 @@
       "short": "SELVS"
     },
     "phoneNumber": "35 91 90 70",
-    "mail": "vest-telemark.vgs@t-fk.no",
+    "mail": "vest-telemark.vgs@vtfk.no",
     "webpage": "https://vest-telemark.vgs.no/",
     "address": {
       "address": "Brøløsvegen 2",
@@ -316,7 +316,7 @@
       "short": "LUNVS"
     },
     "phoneNumber": "35 91 88 00",
-    "mail": "nome.vgs@t-fk.no",
+    "mail": "nome.vgs@vtfk.no",
     "webpage": "https://nome.vgs.no/",
     "address": {
       "address": "Olav Strannas vei 25",
@@ -344,7 +344,7 @@
       "short": "KLOVS"
     },
     "phoneNumber": "35 91 83 00",
-    "mail": "hjalmarjohansen.vgs@t-fk.no",
+    "mail": "hjalmarjohansen.vgs@vtfk.no",
     "webpage": "https://hjalmarjohansen.vgs.no/",
     "address": {
       "address": "Moflatvegen 38",
@@ -372,7 +372,7 @@
       "short": "SKOVS"
     },
     "phoneNumber": "35 91 92 00",
-    "mail": "skogmo.vgs@t-fk.no",
+    "mail": "skogmo.vgs@vtfk.no",
     "webpage": "https://skogmo.vgs.no/",
     "address": {
       "address": "Kjørbekkdalen 11",
@@ -400,7 +400,7 @@
       "short": "SOEVS"
     },
     "phoneNumber": "35 91 87 00",
-    "mail": "nome.vgs@t-fk.no",
+    "mail": "nome.vgs@vtfk.no",
     "webpage": "https://nome.vgs.no/",
     "address": {
       "address": "Søveveien 8",
@@ -428,7 +428,7 @@
       "short": "NOMVS"
     },
     "phoneNumber": "35 91 88 00",
-    "mail": "nome.vgs@t-fk.no",
+    "mail": "nome.vgs@vtfk.no",
     "webpage": "https://nome.vgs.no/",
     "address": {
       "address": "Olav strannasvei 25",
@@ -620,6 +620,131 @@
     "p360": {
       "organizationNumber": "974575086",
       "accessGroup": "Elev-Færder"
+    }
+  },
+  {
+    "organizationNumber": "994309153",
+    "name": {
+      "display": "Kompetansebyggeren",
+      "full": "Kompetansebyggeren Vestfold",
+      "official": "Kompetansebyggeren Vestfold",
+      "short": "KBV"
+    },
+    "phoneNumber": "33 30 93 00",
+    "mail": "kompetansebyggeren@vtfk.no",
+    "webpage": "https://www.vfk.no/Kompetansebyggeren/",
+    "address": {
+      "address": "Nordbyen 40",
+      "zip": 3111,
+      "city": "TØNSBERG",
+      "geocoded": {
+        "lat": "59.27439",
+        "lon": "10.39947"
+      }
+    },
+    "p360": {
+      "organizationNumber": "994309153",
+      "accessGroup": "Elev-Kompetansebyggeren"
+    }
+  },
+  {
+    "organizationNumber": "974575051",
+    "name": {
+      "display": "Melsom vgs",
+      "full": "Melsom videregående skole",
+      "official": "Melsom videregående skole",
+      "short": "MVS"
+    },
+    "phoneNumber": "33 30 96 00",
+    "mail": "melsom.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Melsom-vgs/",
+    "address": {
+      "address": "Melsomvikveien 180",
+      "zip": 3159,
+      "city": "MELSOMVIK",
+      "geocoded": {
+        "lat": "59.23004",
+        "lon": "10.34694"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575051",
+      "accessGroup": "Elev-Melsom"
+    }
+  },
+  {
+    "organizationNumber": "973754815",
+    "name": {
+      "display": "SMI-skolen",
+      "full": "Skolen for sosiale og medisinske institusjoner",
+      "official": "Skolen for sosiale og medisinske institusjoner",
+      "short": "SMI"
+    },
+    "phoneNumber": "47 89 40 00",
+    "mail": "smiskolen@vtfk.no",
+    "webpage": "https://www.vfk.no/smi-skolen/",
+    "address": {
+      "address": "Melsomvikveien 182",
+      "zip": 3159,
+      "city": "MELSOMVIK",
+      "geocoded": {
+        "lat": "59.22981",
+        "lon": "10.34334"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575051",
+      "accessGroup": "Elev-Melsom"
+    }
+  },
+  {
+    "organizationNumber": "974575019",
+    "name": {
+      "display": "Sandefjord vgs",
+      "full": "Sandefjord videregående skole",
+      "official": "Sandefjord videregående skole",
+      "short": "SFVS"
+    },
+    "phoneNumber": "33 48 85 00",
+    "mail": "sandefjord.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Sandefjord-vgs/",
+    "address": {
+      "address": "Krokemoveien 2-4",
+      "zip": 3214,
+      "city": "SANDEFJORD",
+      "geocoded": {
+        "lat": "59.13290",
+        "lon": "10.20375"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575019",
+      "accessGroup": "Elev-Sandefjord"
+    }
+  },
+  {
+    "organizationNumber": "974575027",
+    "name": {
+      "display": "Thor Heyerdahl vgs",
+      "full": "Thor Heyerdahl videregående skole",
+      "official": "Thor Heyerdahl videregående skole",
+      "short": "THVS"
+    },
+    "phoneNumber": "33 12 31 00",
+    "mail": "thorheyerdahl.vgs@vtfk.no",
+    "webpage": "https://www.vfk.no/Thor-Heyerdahl-vgs/",
+    "address": {
+      "address": "Hoffsgate 6",
+      "zip": 3262,
+      "city": "LARVIK",
+      "geocoded": {
+        "lat": "59.04951",
+        "lon": "10.05465"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575027",
+      "accessGroup": "Elev-Thor Heyerdahl"
     }
   }
 ]
