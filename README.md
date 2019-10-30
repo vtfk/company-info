@@ -7,7 +7,7 @@
 Information regarding our different locations
 
 Includes information about our:
-- 22 Upper Secondary Schools
+- 29 Schools
 - 25 Dentists Offices
 
 ## Installation

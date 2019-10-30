@@ -746,5 +746,55 @@
       "organizationNumber": "974575027",
       "accessGroup": "Elev-Thor Heyerdahl"
     }
+  },
+  {
+    "organizationNumber": "996204278",
+    "name": {
+      "full": "Fagskolen i Vestfold",
+      "official": "Fagskolen i Vestfold",
+      "display": "Fagskolen i Vestfold",
+      "short": "FIV"
+    },
+    "phoneNumber": "33 07 90 00",
+    "mail": "fagskolen@vtfk.no",
+    "webpage": "https://fagskolen-vestfold.no/",
+    "address": {
+      "address": "Raveien 189",
+      "zip": 3184,
+      "city": "BORRE",
+      "geocoded": {
+        "lat": "59.36953",
+        "lon": "10.44126"
+      }
+    },
+    "p360": {
+      "organizationNumber": "996204278",
+      "accessGroup": "Elev-FagskolenVestfold"
+    }
+  },
+  {
+    "organizationNumber": "974574977",
+    "name": {
+      "full": "Skiringssal folkehøyskole",
+      "official": "Skiringssal folkehøyskole",
+      "display": "Skiringssal folkehøyskole",
+      "short": "SFH"
+    },
+    "phoneNumber": "33 42 17 90",
+    "mail": "skiringssal@vtfk.no",
+    "webpage": "https://www.vfk.no/skiringssal-folkehoyskole/",
+    "address": {
+      "address": "Skiringssalveien 160",
+      "zip": 3232,
+      "city": "SANDEFJORD",
+      "geocoded": {
+        "lat": "59.11995",
+        "lon": "10.19118"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974574977",
+      "accessGroup": "Elev-Skiringssal"
+    }
   }
 ]
