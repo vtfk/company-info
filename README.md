@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.com/vtfk/company-info.svg?branch=master)](https://travis-ci.com/vtfk/company-info)
-[![Coverage Status](https://coveralls.io/repos/vtfk/company-info/badge.svg?branch=master&service=github)](https://coveralls.io/github/vtfk/company-info?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # company-info
