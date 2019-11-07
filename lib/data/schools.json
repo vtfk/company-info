@@ -21,7 +21,7 @@
     },
     "p360": {
       "organizationNumber": "974568098",
-      "accessGroup": "Elev-Bamble"
+      "accessGroup": "Elev Bamble vgs"
     },
     "minelev": {
       "yff": true
@@ -49,7 +49,7 @@
     },
     "p360": {
       "organizationNumber": "974568098",
-      "accessGroup": "Elev-Bamble"
+      "accessGroup": "Elev Bamble vgs"
     },
     "minelev": {
       "yff": true
@@ -77,7 +77,7 @@
     },
     "p360": {
       "organizationNumber": "974567997",
-      "accessGroup": "Elev-Bø"
+      "accessGroup": "Elev Bø vgs"
     },
     "minelev": {
       "yff": false
@@ -104,8 +104,8 @@
       }
     },
     "p360": {
-      "organizationNumber": "974567997",
-      "accessGroup": "Elev-Rjukan"
+      "organizationNumber": "874568082",
+      "accessGroup": "Elev Rjukan vgs"
     },
     "minelev": {
       "yff": true
@@ -161,7 +161,7 @@
     },
     "p360": {
       "organizationNumber": "974568004",
-      "accessGroup": "Elev-Kragerø"
+      "accessGroup": "Elev Kragerø vgs"
     },
     "minelev": {
       "yff": true
@@ -189,7 +189,7 @@
     },
     "p360": {
       "organizationNumber": "974568012",
-      "accessGroup": "Elev-Notodden"
+      "accessGroup": "Elev Notodden vgs"
     },
     "minelev": {
       "yff": true
@@ -217,7 +217,7 @@
     },
     "p360": {
       "organizationNumber": "974568020",
-      "accessGroup": "Elev-Porsgrunn"
+      "accessGroup": "Elev Porsgrunn vgs"
     },
     "minelev": {
       "yff": true
@@ -245,7 +245,7 @@
     },
     "p360": {
       "organizationNumber": "974568039",
-      "accessGroup": "Elev-Skien"
+      "accessGroup": "Elev Skien vgs"
     },
     "minelev": {
       "yff": true
@@ -273,7 +273,7 @@
     },
     "p360": {
       "organizationNumber": "974568055",
-      "accessGroup": "Elev-Vest-Telemark"
+      "accessGroup": "Elev Vest-Telemark vgs"
     },
     "minelev": {
       "yff": true
@@ -301,7 +301,7 @@
     },
     "p360": {
       "organizationNumber": "974568055",
-      "accessGroup": "Elev-Vest-Telemark"
+      "accessGroup": "Elev Vest-Telemark vgs"
     },
     "minelev": {
       "yff": true
@@ -329,7 +329,7 @@
     },
     "p360": {
       "organizationNumber": "974568187",
-      "accessGroup": "Elev-Nome"
+      "accessGroup": "Elev Nome vgs"
     },
     "minelev": {
       "yff": true
@@ -357,7 +357,7 @@
     },
     "p360": {
       "organizationNumber": "974568071",
-      "accessGroup": "Elev-Hjalmar Johansen"
+      "accessGroup": "Elev Hjalmar Johansen vgs"
     },
     "minelev": {
       "yff": true
@@ -413,7 +413,7 @@
     },
     "p360": {
       "organizationNumber": "974568187",
-      "accessGroup": "Elev-Nome"
+      "accessGroup": "Elev Nome vgs"
     },
     "minelev": {
       "yff": true
@@ -441,7 +441,7 @@
     },
     "p360": {
       "organizationNumber": "974568187",
-      "accessGroup": "Elev-nome"
+      "accessGroup": "Elev Nome vgs"
     },
     "minelev": {
       "yff": true
@@ -469,7 +469,7 @@
     },
     "p360": {
       "organizationNumber": "974575116",
-      "accessGroup": "Elev-Sande"
+      "accessGroup": "Elev Sande vgs"
     }
   },
   {
@@ -494,11 +494,11 @@
     },
     "p360": {
       "organizationNumber": "874575062",
-      "accessGroup": "Elev-Holmestrand"
+      "accessGroup": "Elev Holmestrand vgs"
     }
   },
   {
-    "organizationNumber": "974574985",
+    "organizationNumber": "923261354",
     "name": {
       "display": "Horten vgs",
       "full": "Horten videregående skole",
@@ -518,12 +518,12 @@
       }
     },
     "p360": {
-      "organizationNumber": "974574985",
-      "accessGroup": "Elev-Horten"
+      "organizationNumber": "923261354",
+      "accessGroup": "Elev Horten vgs"
     }
   },
   {
-    "organizationNumber": "974574985",
+    "organizationNumber": "923261354",
     "name": {
       "display": "Nettskolen Vestfold",
       "full": "Nettskolen Vestfold",
@@ -543,8 +543,8 @@
       }
     },
     "p360": {
-      "organizationNumber": "974574985",
-      "accessGroup": "Elev-Horten"
+      "organizationNumber": "923261354",
+      "accessGroup": "Elev Horten vgs"
     }
   },
   {
@@ -569,7 +569,7 @@
     },
     "p360": {
       "organizationNumber": "874575232",
-      "accessGroup": "Elev-Re"
+      "accessGroup": "Elev Re vgs"
     }
   },
   {
@@ -594,7 +594,7 @@
     },
     "p360": {
       "organizationNumber": "974574993",
-      "accessGroup": "Elev-Greveskogen"
+      "accessGroup": "Elev Greveskogen vgs"
     }
   },
   {
@@ -619,7 +619,7 @@
     },
     "p360": {
       "organizationNumber": "974575086",
-      "accessGroup": "Elev-Færder"
+      "accessGroup": "Elev Færder vgs"
     }
   },
   {
@@ -644,7 +644,7 @@
     },
     "p360": {
       "organizationNumber": "994309153",
-      "accessGroup": "Elev-Kompetansebyggeren"
+      "accessGroup": "Elev Kompetansebyggeren"
     }
   },
   {
@@ -669,7 +669,7 @@
     },
     "p360": {
       "organizationNumber": "974575051",
-      "accessGroup": "Elev-Melsom"
+      "accessGroup": "Elev Melsom vgs"
     }
   },
   {
@@ -694,7 +694,7 @@
     },
     "p360": {
       "organizationNumber": "974575051",
-      "accessGroup": "Elev-Melsom"
+      "accessGroup": "Elev SMI-skolen"
     }
   },
   {
@@ -719,7 +719,7 @@
     },
     "p360": {
       "organizationNumber": "974575019",
-      "accessGroup": "Elev-Sandefjord"
+      "accessGroup": "Elev Sandefjord vgs"
     }
   },
   {
@@ -744,7 +744,7 @@
     },
     "p360": {
       "organizationNumber": "974575027",
-      "accessGroup": "Elev-Thor Heyerdahl"
+      "accessGroup": "Elev Thor Heyerdahl vgs"
     }
   },
   {
