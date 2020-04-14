@@ -796,5 +796,30 @@
       "organizationNumber": "974574977",
       "accessGroup": "Elev-Skiringssal"
     }
+  },
+  {
+    "organizationNumber": "974575000",
+    "name": {
+      "full": "Nøtterøy videregående skole",
+      "official": "Nøtterøy videregående skole",
+      "display": "Nøtterøy vgs",
+      "short": "NVS"
+    },
+    "phoneNumber": "33 35 10 00",
+    "mail": "notteroy.vgs@vtfk.no",
+    "webpage": "https://vfk.no/skoler/notteroy-vgs/",
+    "address": {
+      "address": "Rektorveien 10",
+      "zip": 3140,
+      "city": "NØTTERØY",
+      "geocoded": {
+        "lat": "59.11995",
+        "lon": "10.19118"
+      }
+    },
+    "p360": {
+      "organizationNumber": "974575000",
+      "accessGroup": "Elev Nøtterøy vgs"
+    }
   }
 ]
