@@ -25,6 +25,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "CROVS"
     }
   },
   {
@@ -53,6 +56,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "BAMVS"
     }
   },
   {
@@ -81,6 +87,9 @@
     },
     "minelev": {
       "yff": false
+    },
+    "extens": {
+      "id": "BOEVS"
     }
   },
   {
@@ -109,6 +118,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "RJUVS"
     }
   },
   {
@@ -137,6 +149,9 @@
     },
     "minelev": {
       "yff": false
+    },
+    "extens": {
+      "id": "TELVS"
     }
   },
   {
@@ -165,6 +180,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "KRAVS"
     }
   },
   {
@@ -193,6 +211,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "NOTVS"
     }
   },
   {
@@ -221,6 +242,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "PORVS"
     }
   },
   {
@@ -249,6 +273,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "SKIVS"
     }
   },
   {
@@ -277,6 +304,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "DALVS"
     }
   },
   {
@@ -305,6 +335,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "SELVS"
     }
   },
   {
@@ -333,6 +366,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "LUNVS"
     }
   },
   {
@@ -361,6 +397,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "KLOVS"
     }
   },
   {
@@ -389,6 +428,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "SKOVS"
     }
   },
   {
@@ -417,6 +459,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "SOEVS"
     }
   },
   {
@@ -445,6 +490,9 @@
     },
     "minelev": {
       "yff": true
+    },
+    "extens": {
+      "id": "NOMVS"
     }
   },
   {
@@ -470,6 +518,12 @@
     "p360": {
       "organizationNumber": "974575116",
       "accessGroup": "Elev Sande vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "SVS"
     }
   },
   {
@@ -495,6 +549,12 @@
     "p360": {
       "organizationNumber": "874575062",
       "accessGroup": "Elev Holmestrand vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "HLVS"
     }
   },
   {
@@ -520,6 +580,12 @@
     "p360": {
       "organizationNumber": "923261354",
       "accessGroup": "Elev Horten vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "HVS"
     }
   },
   {
@@ -545,6 +611,12 @@
     "p360": {
       "organizationNumber": "923261354",
       "accessGroup": "Elev Horten vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "HVS-NETT"
     }
   },
   {
@@ -570,6 +642,12 @@
     "p360": {
       "organizationNumber": "874575232",
       "accessGroup": "Elev Re vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "RVS"
     }
   },
   {
@@ -595,6 +673,12 @@
     "p360": {
       "organizationNumber": "974574993",
       "accessGroup": "Elev Greveskogen vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "GRVS"
     }
   },
   {
@@ -620,6 +704,12 @@
     "p360": {
       "organizationNumber": "974575086",
       "accessGroup": "Elev Færder vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "FRVS"
     }
   },
   {
@@ -645,6 +735,12 @@
     "p360": {
       "organizationNumber": "994309153",
       "accessGroup": "Elev Kompetansebyggeren"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "KBV"
     }
   },
   {
@@ -670,6 +766,12 @@
     "p360": {
       "organizationNumber": "974575051",
       "accessGroup": "Elev Melsom vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "MVS"
     }
   },
   {
@@ -695,6 +797,12 @@
     "p360": {
       "organizationNumber": "974575051",
       "accessGroup": "Elev SMI-skolen"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "MVS-SMIH"
     }
   },
   {
@@ -720,6 +828,12 @@
     "p360": {
       "organizationNumber": "974575019",
       "accessGroup": "Elev Sandefjord vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "THVS"
     }
   },
   {
@@ -745,6 +859,12 @@
     "p360": {
       "organizationNumber": "974575027",
       "accessGroup": "Elev Thor Heyerdahl vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "THVS"
     }
   },
   {
@@ -770,6 +890,12 @@
     "p360": {
       "organizationNumber": "996204278",
       "accessGroup": "Elev-FagskolenVestfold"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "FIV"
     }
   },
   {
@@ -795,6 +921,12 @@
     "p360": {
       "organizationNumber": "974574977",
       "accessGroup": "Elev-Skiringssal"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "SFH"
     }
   },
   {
@@ -820,6 +952,12 @@
     "p360": {
       "organizationNumber": "974575000",
       "accessGroup": "Elev Nøtterøy vgs"
+    },
+    "minelev": {
+      "yff": false
+    },
+    "extens": {
+      "id": "NVS"
     }
   }
 ]
