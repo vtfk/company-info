@@ -36,13 +36,13 @@ const { getSchools } = require('@vtfk/company-info')
 
 const options = {
   name: {
-    short: 'SKIVS'
+    short: 'SKOV'
   }
 }
 
 console.log(getSchools()) //=> All schools
 
-console.log(getSchools(options)) //=> Schools with shortName SKIVS
+console.log(getSchools(options)) //=> Schools with shortName SKOV
 ```
 
 ### Dentist offices

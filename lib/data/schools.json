@@ -5,11 +5,12 @@
       "full": "Bamble videregående skole, avdeling Croftholmen",
       "official": "Bamble videregående skole",
       "display": "Bamble vgs. avd. Croftholmen",
-      "short": "CROVS"
+      "short": "BAV",
+      "oldShort": "CROVS"
     },
     "phoneNumber": "35 91 79 00",
     "mail": "bamble.vgs@vtfk.no",
-    "webpage": "https://bamble.vgs.no/",
+    "webpage": "https://vtfk.no/bamble-vgs",
     "address": {
       "address": "Tostrupsvei 7",
       "zip": 3960,
@@ -36,11 +37,12 @@
       "full": "Bamble videregående skole, avdeling Grasmyr",
       "official": "Bamble videregående skole",
       "display": "Bamble vgs. avd. Grasmyr",
-      "short": "BAMVS"
+      "short": "BAV",
+      "oldShort": "BAMVS"
     },
     "phoneNumber": "35 91 94 00",
     "mail": "bamble.vgs@vtfk.no",
-    "webpage": "https://bamble.vgs.no/",
+    "webpage": "https://vtfk.no/bamble-vgs",
     "address": {
       "address": "Tønderveien 6",
       "zip": 3960,
@@ -67,11 +69,12 @@
       "full": "Bø vidaregåande skule",
       "official": "Bø vidaregåande skule",
       "display": "Bø vgs",
-      "short": "BOEVS"
+      "short": "BOV",
+      "oldShort": "BOEVS"
     },
     "phoneNumber": "35 91 90 00",
     "mail": "bo.vgs@vtfk.no",
-    "webpage": "https://bo.vgs.no/",
+    "webpage": "https://vtfk.no/bo-vgs",
     "address": {
       "address": "Gymnasbakken 23",
       "zip": 3802,
@@ -98,11 +101,12 @@
       "full": "Rjukan videregående skole",
       "official": "Rjukan videregående skole",
       "display": "Rjukan vgs",
-      "short": "RJUVS"
+      "short": "RJV",
+      "oldShort": "RJUVS"
     },
     "phoneNumber": "35 91 90 00",
     "mail": "rjukan.vgs@vtfk.no",
-    "webpage": "https://rjukan.vgs.no/",
+    "webpage": "https://vtfk.no/rjukan-vgs",
     "address": {
       "address": "Såheimveien 22",
       "zip": 3660,
@@ -129,11 +133,12 @@
       "full": "Fagskolen Telemark",
       "official": "Fagskolen Telemark",
       "display": "Fagskolen Telemark",
-      "short": "TELVS"
+      "short": "FAGS",
+      "oldShort": "TELVS"
     },
     "phoneNumber": "35 91 77 50",
-    "mail": "post@fagskolentelemark.no",
-    "webpage": "https://fagskolen-telemark.no/",
+    "mail": "fagskolen@vtfk.no",
+    "webpage": "https://fagskolen-vestfoldogtelemark.no",
     "address": {
       "address": "Kjølnes ring 26",
       "zip": 3918,
@@ -160,11 +165,12 @@
       "full": "Kragerø videregående skole",
       "official": "Kragerø videregående skole",
       "display": "Kragerø vgs",
-      "short": "KRAVS"
+      "short": "KRV",
+      "oldShort": "KRAVS"
     },
     "phoneNumber": "35 91 95 00",
     "mail": "kragero.vgs@vtfk.no",
-    "webpage": "https://kragero.vgs.no/",
+    "webpage": "https://vtfk.no/kragero-vgs",
     "address": {
       "address": "Frydensborgveien 9-11",
       "zip": 3770,
@@ -191,11 +197,12 @@
       "full": "Notodden videregående skole",
       "official": "Notodden videregående skole",
       "display": "Notodden vgs",
-      "short": "NOTVS"
+      "short": "NOV",
+      "oldShort": "NOTVS"
     },
     "phoneNumber": "35 91 85 00",
     "mail": "notodden.vgs@vtfk.no",
-    "webpage": "https://notodden.vgs.no/",
+    "webpage": "https://vtfk.no/notodden-vgs",
     "address": {
       "address": "Heddalsveien 4",
       "zip": 3674,
@@ -222,11 +229,12 @@
       "full": "Porsgrunn videregående skole",
       "official": "Porsgrunn videregående skole",
       "display": "Porsgrunn vgs",
-      "short": "PORVS"
+      "short": "OF-POV",
+      "oldShort": "PORVS"
     },
     "phoneNumber": "35 91 75 00",
     "mail": "porsgrunn.vgs@vtfk.no",
-    "webpage": "https://porsgrunn.vgs.no/",
+    "webpage": "https://vtfk.no/porsgrunn-vgs",
     "address": {
       "address": "Kjølnes Ring 58",
       "zip": 3918,
@@ -253,11 +261,12 @@
       "full": "Skien videregående skole",
       "official": "Skien videregående skole",
       "display": "Skien vgs",
-      "short": "SKIVS"
+      "short": "SKIV",
+      "oldShort": "SKIVS"
     },
     "phoneNumber": "35 91 80 00",
     "mail": "skien.vgs@vtfk.no",
-    "webpage": "https://skien.vgs.no/",
+    "webpage": "https://vtfk.no/skien-vgs",
     "address": {
       "address": "Hollenderigata 5",
       "zip": 3732,
@@ -284,11 +293,12 @@
       "full": "Vest-Telemark vidaregåande skule, avdeling Dalen",
       "official": "Vest-Telemark vidaregåande skule",
       "display": "Vest-Telemark vgs. avd. Dalen",
-      "short": "DALVS"
+      "short": "VTV",
+      "oldShort": "DALVS"
     },
     "phoneNumber": "35 91 97 00",
     "mail": "vest-telemark.vgs@vtfk.no",
-    "webpage": "https://vest-telemark.vgs.no/",
+    "webpage": "https://vtfk.no/vest-telemark-vgs",
     "address": {
       "address": "Storvegen 195",
       "zip": 3880,
@@ -315,11 +325,12 @@
       "full": "Vest-Telemark vidaregåande skule, avdeling Seljord",
       "official": "Vest-Telemark vidaregåande skule",
       "display": "Vest-Telemark vgs. avd. Seljord",
-      "short": "SELVS"
+      "short": "VTV",
+      "oldShort": "SELVS"
     },
     "phoneNumber": "35 91 90 70",
     "mail": "vest-telemark.vgs@vtfk.no",
-    "webpage": "https://vest-telemark.vgs.no/",
+    "webpage": "https://vtfk.no/vest-telemark-vgs",
     "address": {
       "address": "Brøløsvegen 2",
       "zip": 3840,
@@ -346,11 +357,12 @@
       "full": "Nome videregående skole, avdeling Lunde",
       "official": "Nome videregående skole",
       "display": "Nome vgs. avd. Lunde",
-      "short": "LUNVS"
+      "short": "NOMV",
+      "oldShort": "LUNVS"
     },
     "phoneNumber": "35 91 88 00",
     "mail": "nome.vgs@vtfk.no",
-    "webpage": "https://nome.vgs.no/",
+    "webpage": "https://vtfk.no/nome-vgs",
     "address": {
       "address": "Olav Strannas vei 25",
       "zip": 3825,
@@ -377,11 +389,12 @@
       "full": "Hjalmar Johansen videregående skole",
       "official": "Hjalmar Johansen videregående skole",
       "display": "Hjalmar Johansen vgs",
-      "short": "KLOVS"
+      "short": "HJV",
+      "oldShort": "KLOVS"
     },
     "phoneNumber": "35 91 83 00",
     "mail": "hjalmarjohansen.vgs@vtfk.no",
-    "webpage": "https://hjalmarjohansen.vgs.no/",
+    "webpage": "https://vtfk.no/hjalmarjohansen-vgs",
     "address": {
       "address": "Moflatvegen 38",
       "zip": 3733,
@@ -408,11 +421,12 @@
       "full": "Skogmo videregående skole",
       "official": "Skogmo videregående skole",
       "display": "Skogmo vgs",
-      "short": "SKOVS"
+      "short": "SKOV",
+      "oldShort": "SKOVS"
     },
     "phoneNumber": "35 91 92 00",
     "mail": "skogmo.vgs@vtfk.no",
-    "webpage": "https://skogmo.vgs.no/",
+    "webpage": "https://vtfk.no/skogmo-vgs",
     "address": {
       "address": "Kjørbekkdalen 11",
       "zip": 3735,
@@ -439,11 +453,12 @@
       "display": "Nome vgs. avd. Søve",
       "full": "Nome videregående skole, avdeling Søve",
       "official": "Nome videregående skole",
-      "short": "SOEVS"
+      "short": "NOMV",
+      "oldShort": "SOEVS"
     },
     "phoneNumber": "35 91 87 00",
     "mail": "nome.vgs@vtfk.no",
-    "webpage": "https://nome.vgs.no/",
+    "webpage": "https://vtfk.no/nome-vgs",
     "address": {
       "address": "Søveveien 8",
       "zip": 3830,
@@ -470,11 +485,12 @@
       "display": "Nome vgs. avd. Lunde",
       "full": "Nome videregående skole, avdeling Lunde",
       "official": "Nome videregående skole",
-      "short": "NOMVS"
+      "short": "NOMV",
+      "oldShort": "NOMVS"
     },
     "phoneNumber": "35 91 88 00",
     "mail": "nome.vgs@vtfk.no",
-    "webpage": "https://nome.vgs.no/",
+    "webpage": "https://vtfk.no/nome-vgs",
     "address": {
       "address": "Olav strannasvei 25",
       "zip": 3825,
@@ -501,11 +517,12 @@
       "display": "Sande vgs",
       "full": "Sande videregående skole",
       "official": "Sande videregående skole",
-      "short": "SVS"
+      "short": "SANV",
+      "oldShort": "SVS"
     },
     "phoneNumber": "33 78 50 50",
     "mail": "sande.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Sande-vgs/",
+    "webpage": "https://vtfk.no/sande-vgs",
     "address": {
       "address": "Hans Kristian Evensens vei 53",
       "zip": 3076,
@@ -532,11 +549,12 @@
       "display": "Holmestrand vgs",
       "full": "Holmestrand videregående skole",
       "official": "Holmestrand videregående skole",
-      "short": "HLVS"
+      "short": "HOLV",
+      "oldShort": "HLVS"
     },
     "phoneNumber": "33 06 63 50",
     "mail": "holmestrand.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Holmestrand-vgs/",
+    "webpage": "https://vtfk.no/holmestrand-vgs",
     "address": {
       "address": "Vesthøyveien 7B",
       "zip": 3085,
@@ -563,11 +581,12 @@
       "display": "Horten vgs",
       "full": "Horten videregående skole",
       "official": "Horten videregående skole",
-      "short": "HVS"
+      "short": "HORV",
+      "oldShort": "HVS"
     },
     "phoneNumber": "33 07 90 00",
     "mail": "horten.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Horten-vgs/",
+    "webpage": "https://vtfk.no/horten-vgs",
     "address": {
       "address": "Strandpromenaden 33",
       "zip": 3183,
@@ -594,11 +613,12 @@
       "display": "Nettskolen Vestfold",
       "full": "Nettskolen Vestfold",
       "official": "Nettskolen Vestfold",
-      "short": "HVS-NETT"
+      "short": "NETT",
+      "oldShort": "HVS-NETT"
     },
     "phoneNumber": "33 07 90 00",
     "mail": "nettskolen@vtfk.no",
-    "webpage": "https://www.vfk.no/nettskolen",
+    "webpage": "https://vtfk.no/nettskolen",
     "address": {
       "address": "Strandpromenaden 33",
       "zip": 3183,
@@ -625,11 +645,12 @@
       "display": "Re vgs",
       "full": "Re videregående skole",
       "official": "Re videregående skole",
-      "short": "RVS"
+      "short": "REV",
+      "oldShort": "RVS"
     },
     "phoneNumber": "33 30 66 30",
     "mail": "postmottak.revgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Re-vgs/",
+    "webpage": "https://vtfk.no/re-vgs",
     "address": {
       "address": "Bergsåsveien 44",
       "zip": 3175,
@@ -656,11 +677,12 @@
       "display": "Greveskogen vgs",
       "full": "Greveskogen videregående skole",
       "official": "Greveskogen videregående skole",
-      "short": "GVS"
+      "short": "GRV",
+      "oldShort": "GVS"
     },
     "phoneNumber": "33 01 61 00",
-    "mail": "greveskogen.vgs@vfk.no",
-    "webpage": "https://www.vfk.no/Greveskogen-vgs/",
+    "mail": "greveskogen.vgs@vtfk.no",
+    "webpage": "https://vtfk.no/greveskogen-vgs",
     "address": {
       "address": "Eikveien 2",
       "zip": 3122,
@@ -687,11 +709,12 @@
       "display": "Færder vgs",
       "full": "Færder videregående skole",
       "official": "Færder videregående skole",
-      "short": "FVS"
+      "short": "FRV",
+      "oldShort": "FVS"
     },
     "phoneNumber": "33 30 96 00",
     "mail": "ferder.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Farder-vgs/",
+    "webpage": "https://vtfk.no/farder-vgs",
     "address": {
       "address": "Banebakken 44",
       "zip": 3127,
@@ -718,11 +741,12 @@
       "display": "Kompetansebyggeren",
       "full": "Kompetansebyggeren Vestfold",
       "official": "Kompetansebyggeren Vestfold",
-      "short": "KBV"
+      "short": "KB",
+      "oldShort": "KBV"
     },
     "phoneNumber": "33 30 93 00",
     "mail": "kompetansebyggeren@vtfk.no",
-    "webpage": "https://www.vfk.no/Kompetansebyggeren/",
+    "webpage": "https://vtfk.no/kompetansebyggeren",
     "address": {
       "address": "Nordbyen 40",
       "zip": 3111,
@@ -749,11 +773,12 @@
       "display": "Melsom vgs",
       "full": "Melsom videregående skole",
       "official": "Melsom videregående skole",
-      "short": "MVS"
+      "short": "MEV",
+      "oldShort": "MVS"
     },
     "phoneNumber": "33 30 96 00",
     "mail": "melsom.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Melsom-vgs/",
+    "webpage": "https://vtfk.no/melsom-vgs",
     "address": {
       "address": "Melsomvikveien 180",
       "zip": 3159,
@@ -780,11 +805,12 @@
       "display": "SMI-skolen",
       "full": "Skolen for sosiale og medisinske institusjoner",
       "official": "Skolen for sosiale og medisinske institusjoner",
-      "short": "SMI"
+      "short": "SMI",
+      "oldShort": "SMI"
     },
     "phoneNumber": "47 89 40 00",
     "mail": "smiskolen@vtfk.no",
-    "webpage": "https://www.vfk.no/smi-skolen/",
+    "webpage": "https://vtfk.no/smi-skolen",
     "address": {
       "address": "Melsomvikveien 182",
       "zip": 3159,
@@ -811,11 +837,12 @@
       "display": "Sandefjord vgs",
       "full": "Sandefjord videregående skole",
       "official": "Sandefjord videregående skole",
-      "short": "SFVS"
+      "short": "SFV",
+      "oldShort": "SFVS"
     },
     "phoneNumber": "33 48 85 00",
     "mail": "sandefjord.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Sandefjord-vgs/",
+    "webpage": "https://vtfk.no/sandefjord-vgs",
     "address": {
       "address": "Krokemoveien 2-4",
       "zip": 3214,
@@ -842,11 +869,12 @@
       "display": "Thor Heyerdahl vgs",
       "full": "Thor Heyerdahl videregående skole",
       "official": "Thor Heyerdahl videregående skole",
-      "short": "THVS"
+      "short": "THV",
+      "oldShort": "THVS"
     },
     "phoneNumber": "33 12 31 00",
     "mail": "thorheyerdahl.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Thor-Heyerdahl-vgs/",
+    "webpage": "https://vtfk.no/thor-heyerdahl-vgs",
     "address": {
       "address": "Hoffsgate 6",
       "zip": 3262,
@@ -873,11 +901,12 @@
       "full": "Fagskolen i Vestfold",
       "official": "Fagskolen i Vestfold",
       "display": "Fagskolen i Vestfold",
-      "short": "FIV"
+      "short": "FAGS",
+      "oldShort": "FIV"
     },
     "phoneNumber": "33 07 90 00",
     "mail": "fagskolen@vtfk.no",
-    "webpage": "https://fagskolen-vestfold.no/",
+    "webpage": "https://fagskolen-vestfoldogtelemark.no",
     "address": {
       "address": "Raveien 189",
       "zip": 3184,
@@ -889,7 +918,7 @@
     },
     "p360": {
       "organizationNumber": "996204278",
-      "accessGroup": "Elev-FagskolenVestfold"
+      "accessGroup": "Elev Fagskolen"
     },
     "minelev": {
       "yff": false
@@ -899,16 +928,17 @@
     }
   },
   {
-    "organizationNumber": "974574977",
+    "organizationNumber": "944025391",
     "name": {
-      "full": "Skiringssal folkehøyskole",
-      "official": "Skiringssal folkehøyskole",
-      "display": "Skiringssal folkehøyskole",
-      "short": "SFH"
+      "full": "Sandefjord folkehøyskole",
+      "official": "Sandefjord folkehøyskole",
+      "display": "Sandefjord folkehøyskole",
+      "short": "SFH",
+      "oldShort": "SFH"
     },
     "phoneNumber": "33 42 17 90",
-    "mail": "skiringssal@vtfk.no",
-    "webpage": "https://www.vfk.no/skiringssal-folkehoyskole/",
+    "mail": "sandefjordfhs@vtfk.no",
+    "webpage": "https://vtfk.no/sandefjord-folkehoyskole",
     "address": {
       "address": "Skiringssalveien 160",
       "zip": 3232,
@@ -919,8 +949,8 @@
       }
     },
     "p360": {
-      "organizationNumber": "974574977",
-      "accessGroup": "Elev-Skiringssal"
+      "organizationNumber": "944025391",
+      "accessGroup": "Elev Sandefjord fhs"
     },
     "minelev": {
       "yff": false
@@ -935,11 +965,12 @@
       "full": "Nøtterøy videregående skole",
       "official": "Nøtterøy videregående skole",
       "display": "Nøtterøy vgs",
-      "short": "NVS"
+      "short": "NTV",
+      "oldShort": "NVS"
     },
     "phoneNumber": "33 35 10 00",
     "mail": "notteroy.vgs@vtfk.no",
-    "webpage": "https://vfk.no/skoler/notteroy-vgs/",
+    "webpage": "https://vtfk.no/notteroy-vgs",
     "address": {
       "address": "Rektorveien 10",
       "zip": 3140,
