@@ -10,7 +10,7 @@
     },
     "phoneNumber": "35 91 79 00",
     "mail": "bamble.vgs@vtfk.no",
-    "webpage": "https://bamble.vgs.no/",
+    "webpage": "https://vtfk.no/bamble-vgs",
     "address": {
       "address": "Tostrupsvei 7",
       "zip": 3960,
@@ -42,7 +42,7 @@
     },
     "phoneNumber": "35 91 94 00",
     "mail": "bamble.vgs@vtfk.no",
-    "webpage": "https://bamble.vgs.no/",
+    "webpage": "https://vtfk.no/bamble-vgs",
     "address": {
       "address": "Tønderveien 6",
       "zip": 3960,
@@ -74,7 +74,7 @@
     },
     "phoneNumber": "35 91 90 00",
     "mail": "bo.vgs@vtfk.no",
-    "webpage": "https://bo.vgs.no/",
+    "webpage": "https://vtfk.no/bo-vgs",
     "address": {
       "address": "Gymnasbakken 23",
       "zip": 3802,
@@ -106,7 +106,7 @@
     },
     "phoneNumber": "35 91 90 00",
     "mail": "rjukan.vgs@vtfk.no",
-    "webpage": "https://rjukan.vgs.no/",
+    "webpage": "https://vtfk.no/rjukan-vgs",
     "address": {
       "address": "Såheimveien 22",
       "zip": 3660,
@@ -137,8 +137,8 @@
       "oldShort": "TELVS"
     },
     "phoneNumber": "35 91 77 50",
-    "mail": "post@fagskolentelemark.no",
-    "webpage": "https://fagskolen-telemark.no/",
+    "mail": "fagskolen@vtfk.no",
+    "webpage": "https://fagskolen-vestfoldogtelemark.no",
     "address": {
       "address": "Kjølnes ring 26",
       "zip": 3918,
@@ -170,7 +170,7 @@
     },
     "phoneNumber": "35 91 95 00",
     "mail": "kragero.vgs@vtfk.no",
-    "webpage": "https://kragero.vgs.no/",
+    "webpage": "https://vtfk.no/kragero-vgs",
     "address": {
       "address": "Frydensborgveien 9-11",
       "zip": 3770,
@@ -202,7 +202,7 @@
     },
     "phoneNumber": "35 91 85 00",
     "mail": "notodden.vgs@vtfk.no",
-    "webpage": "https://notodden.vgs.no/",
+    "webpage": "https://vtfk.no/notodden-vgs",
     "address": {
       "address": "Heddalsveien 4",
       "zip": 3674,
@@ -234,7 +234,7 @@
     },
     "phoneNumber": "35 91 75 00",
     "mail": "porsgrunn.vgs@vtfk.no",
-    "webpage": "https://porsgrunn.vgs.no/",
+    "webpage": "https://vtfk.no/porsgrunn-vgs",
     "address": {
       "address": "Kjølnes Ring 58",
       "zip": 3918,
@@ -266,7 +266,7 @@
     },
     "phoneNumber": "35 91 80 00",
     "mail": "skien.vgs@vtfk.no",
-    "webpage": "https://skien.vgs.no/",
+    "webpage": "https://vtfk.no/skien-vgs",
     "address": {
       "address": "Hollenderigata 5",
       "zip": 3732,
@@ -298,7 +298,7 @@
     },
     "phoneNumber": "35 91 97 00",
     "mail": "vest-telemark.vgs@vtfk.no",
-    "webpage": "https://vest-telemark.vgs.no/",
+    "webpage": "https://vtfk.no/vest-telemark-vgs",
     "address": {
       "address": "Storvegen 195",
       "zip": 3880,
@@ -330,7 +330,7 @@
     },
     "phoneNumber": "35 91 90 70",
     "mail": "vest-telemark.vgs@vtfk.no",
-    "webpage": "https://vest-telemark.vgs.no/",
+    "webpage": "https://vtfk.no/vest-telemark-vgs",
     "address": {
       "address": "Brøløsvegen 2",
       "zip": 3840,
@@ -362,7 +362,7 @@
     },
     "phoneNumber": "35 91 88 00",
     "mail": "nome.vgs@vtfk.no",
-    "webpage": "https://nome.vgs.no/",
+    "webpage": "https://vtfk.no/nome-vgs",
     "address": {
       "address": "Olav Strannas vei 25",
       "zip": 3825,
@@ -394,7 +394,7 @@
     },
     "phoneNumber": "35 91 83 00",
     "mail": "hjalmarjohansen.vgs@vtfk.no",
-    "webpage": "https://hjalmarjohansen.vgs.no/",
+    "webpage": "https://vtfk.no/hjalmarjohansen-vgs",
     "address": {
       "address": "Moflatvegen 38",
       "zip": 3733,
@@ -426,7 +426,7 @@
     },
     "phoneNumber": "35 91 92 00",
     "mail": "skogmo.vgs@vtfk.no",
-    "webpage": "https://skogmo.vgs.no/",
+    "webpage": "https://vtfk.no/skogmo-vgs",
     "address": {
       "address": "Kjørbekkdalen 11",
       "zip": 3735,
@@ -458,7 +458,7 @@
     },
     "phoneNumber": "35 91 87 00",
     "mail": "nome.vgs@vtfk.no",
-    "webpage": "https://nome.vgs.no/",
+    "webpage": "https://vtfk.no/nome-vgs",
     "address": {
       "address": "Søveveien 8",
       "zip": 3830,
@@ -490,7 +490,7 @@
     },
     "phoneNumber": "35 91 88 00",
     "mail": "nome.vgs@vtfk.no",
-    "webpage": "https://nome.vgs.no/",
+    "webpage": "https://vtfk.no/nome-vgs",
     "address": {
       "address": "Olav strannasvei 25",
       "zip": 3825,
@@ -522,7 +522,7 @@
     },
     "phoneNumber": "33 78 50 50",
     "mail": "sande.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Sande-vgs/",
+    "webpage": "https://vtfk.no/sande-vgs",
     "address": {
       "address": "Hans Kristian Evensens vei 53",
       "zip": 3076,
@@ -554,7 +554,7 @@
     },
     "phoneNumber": "33 06 63 50",
     "mail": "holmestrand.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Holmestrand-vgs/",
+    "webpage": "https://vtfk.no/holmestrand-vgs",
     "address": {
       "address": "Vesthøyveien 7B",
       "zip": 3085,
@@ -586,7 +586,7 @@
     },
     "phoneNumber": "33 07 90 00",
     "mail": "horten.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Horten-vgs/",
+    "webpage": "https://vtfk.no/horten-vgs",
     "address": {
       "address": "Strandpromenaden 33",
       "zip": 3183,
@@ -618,7 +618,7 @@
     },
     "phoneNumber": "33 07 90 00",
     "mail": "nettskolen@vtfk.no",
-    "webpage": "https://www.vfk.no/nettskolen",
+    "webpage": "https://vtfk.no/nettskolen",
     "address": {
       "address": "Strandpromenaden 33",
       "zip": 3183,
@@ -650,7 +650,7 @@
     },
     "phoneNumber": "33 30 66 30",
     "mail": "postmottak.revgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Re-vgs/",
+    "webpage": "https://vtfk.no/re-vgs",
     "address": {
       "address": "Bergsåsveien 44",
       "zip": 3175,
@@ -681,8 +681,8 @@
       "oldShort": "GVS"
     },
     "phoneNumber": "33 01 61 00",
-    "mail": "greveskogen.vgs@vfk.no",
-    "webpage": "https://www.vfk.no/Greveskogen-vgs/",
+    "mail": "greveskogen.vgs@vtfk.no",
+    "webpage": "https://vtfk.no/greveskogen-vgs",
     "address": {
       "address": "Eikveien 2",
       "zip": 3122,
@@ -714,7 +714,7 @@
     },
     "phoneNumber": "33 30 96 00",
     "mail": "ferder.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Farder-vgs/",
+    "webpage": "https://vtfk.no/farder-vgs",
     "address": {
       "address": "Banebakken 44",
       "zip": 3127,
@@ -746,7 +746,7 @@
     },
     "phoneNumber": "33 30 93 00",
     "mail": "kompetansebyggeren@vtfk.no",
-    "webpage": "https://www.vfk.no/Kompetansebyggeren/",
+    "webpage": "https://vtfk.no/kompetansebyggeren",
     "address": {
       "address": "Nordbyen 40",
       "zip": 3111,
@@ -778,7 +778,7 @@
     },
     "phoneNumber": "33 30 96 00",
     "mail": "melsom.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Melsom-vgs/",
+    "webpage": "https://vtfk.no/melsom-vgs",
     "address": {
       "address": "Melsomvikveien 180",
       "zip": 3159,
@@ -810,7 +810,7 @@
     },
     "phoneNumber": "47 89 40 00",
     "mail": "smiskolen@vtfk.no",
-    "webpage": "https://www.vfk.no/smi-skolen/",
+    "webpage": "https://vtfk.no/smi-skolen",
     "address": {
       "address": "Melsomvikveien 182",
       "zip": 3159,
@@ -842,7 +842,7 @@
     },
     "phoneNumber": "33 48 85 00",
     "mail": "sandefjord.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Sandefjord-vgs/",
+    "webpage": "https://vtfk.no/sandefjord-vgs",
     "address": {
       "address": "Krokemoveien 2-4",
       "zip": 3214,
@@ -874,7 +874,7 @@
     },
     "phoneNumber": "33 12 31 00",
     "mail": "thorheyerdahl.vgs@vtfk.no",
-    "webpage": "https://www.vfk.no/Thor-Heyerdahl-vgs/",
+    "webpage": "https://vtfk.no/thor-heyerdahl-vgs",
     "address": {
       "address": "Hoffsgate 6",
       "zip": 3262,
@@ -906,7 +906,7 @@
     },
     "phoneNumber": "33 07 90 00",
     "mail": "fagskolen@vtfk.no",
-    "webpage": "https://fagskolen-vestfold.no/",
+    "webpage": "https://fagskolen-vestfoldogtelemark.no",
     "address": {
       "address": "Raveien 189",
       "zip": 3184,
@@ -918,7 +918,7 @@
     },
     "p360": {
       "organizationNumber": "996204278",
-      "accessGroup": "Elev-FagskolenVestfold"
+      "accessGroup": "Elev Fagskolen"
     },
     "minelev": {
       "yff": false
@@ -928,17 +928,17 @@
     }
   },
   {
-    "organizationNumber": "974574977",
+    "organizationNumber": "944025391",
     "name": {
-      "full": "Skiringssal folkehøyskole",
-      "official": "Skiringssal folkehøyskole",
-      "display": "Skiringssal folkehøyskole",
+      "full": "Sandefjord folkehøyskole",
+      "official": "Sandefjord folkehøyskole",
+      "display": "Sandefjord folkehøyskole",
       "short": "SFH",
       "oldShort": "SFH"
     },
     "phoneNumber": "33 42 17 90",
-    "mail": "skiringssal@vtfk.no",
-    "webpage": "https://www.vfk.no/skiringssal-folkehoyskole/",
+    "mail": "sandefjordfhs@vtfk.no",
+    "webpage": "https://vtfk.no/sandefjord-folkehoyskole",
     "address": {
       "address": "Skiringssalveien 160",
       "zip": 3232,
@@ -949,8 +949,8 @@
       }
     },
     "p360": {
-      "organizationNumber": "974574977",
-      "accessGroup": "Elev-Skiringssal"
+      "organizationNumber": "944025391",
+      "accessGroup": "Elev Sandefjord fhs"
     },
     "minelev": {
       "yff": false
@@ -970,7 +970,7 @@
     },
     "phoneNumber": "33 35 10 00",
     "mail": "notteroy.vgs@vtfk.no",
-    "webpage": "https://vfk.no/skoler/notteroy-vgs/",
+    "webpage": "https://vtfk.no/notteroy-vgs",
     "address": {
       "address": "Rektorveien 10",
       "zip": 3140,
