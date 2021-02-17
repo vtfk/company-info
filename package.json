@@ -1,12 +1,8 @@
 {
   "name": "@vtfk/company-info",
   "description": "Get information regarding our schools and other companies",
-  "version": "0.2.2",
-  "author": {
-    "name": "Mats Andreassen",
-    "email": "mats.andreassen@vtfk.no",
-    "url": "https://github.com/matsand"
-  },
+  "version": "0.3.0",
+  "author": "Mats Andreassen <mats.andreassen@vtfk.no> (https://github.com/matsand)",
   "main": "index.js",
   "scripts": {
     "test": "standard && npm audit --production && tap --reporter=spec test/**/*.js",
@@ -26,6 +22,18 @@
     "tap": "14.11.0"
   },
   "dependencies": {
-    "@mcabreradev/filter": "^2.0.0"
-  }
+    "@mcabreradev/filter": "2.0.2"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtfk/company-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vtfk/company-info/issues"
+  },
+  "homepage": "https://github.com/vtfk/company-info#readme"
 }
