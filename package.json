@@ -1,7 +1,7 @@
 {
   "name": "@vtfk/company-info",
   "description": "Get information regarding our schools and other companies",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "Mats Andreassen <mats.andreassen@vtfk.no> (https://github.com/matsand)",
   "main": "index.js",
   "scripts": {
