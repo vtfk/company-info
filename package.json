@@ -22,7 +22,7 @@
     "tap": "15.0.10"
   },
   "dependencies": {
-    "@mcabreradev/filter": "2.0.2"
+    "@mcabreradev/filter": "3.1.4"
   },
   "directories": {
     "lib": "lib",
